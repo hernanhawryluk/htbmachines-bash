@@ -1,13 +1,9 @@
-# web-renders-showcase
+# htbmachines
 
 <div>
 <h4>Language options</h4>
   <a href="https://github.com/hernanhawryluk/htbmachines-bash/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.htbmachines-bash"></a>
-</div>
-<div>
-  <h3>Technologies used</h3>
-  <a href="#"><img alt="bash" src="https://img.shields.io/badge/bash?logo=bash"></a>
 </div>
 
 ## Description
