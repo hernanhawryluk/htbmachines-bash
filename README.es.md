@@ -2,7 +2,7 @@
 
 <div>
 <h4>Opciones de idioma</h4>
-  <a href="https://github.com/hernanhawryluk/htbmachines-bash/blob/main/README.md"><img alt="Cambiar idioma al ingles" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
+  <a href="https://github.com/hernanhawryluk/htbmachines-bash/blob/main/README.md"><img alt="Cambiar idioma al ingles" src="https://img.shields.io/badge/idioma-english-red.svg"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.htbmachines-bash"></a>
 </div>
 
